@@ -1,7 +1,6 @@
 import streamlit as st 
 import pandas as pd
 
-st.balloons()
 st.markdown("# Data Evaluation App")
 
 st.write("We are so glad to see you here. ✨ " 
